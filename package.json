@@ -34,7 +34,7 @@
     "web-vitals": "^2.1.4"
   },
 "scripts": {
-  "start": "react-scripts start --port 3000 --public-url=https://travel-client-6.onrender.com/",
+  "start": "react-scripts start --port 3000 --public-url=https://travel-client-6.onrender.com/ --disable-host-check",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
