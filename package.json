@@ -34,7 +34,7 @@
     "web-vitals": "^2.1.4"
   },
 "scripts": {
-  "start": "react-scripts start --public-url=https://travel-client-6.onrender.com",
+  "start": "dotenv -e .env react-scripts start",
   "build": "react-scripts build",
   "test": "react-scripts test",
   "eject": "react-scripts eject"
