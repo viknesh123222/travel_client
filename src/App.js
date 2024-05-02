@@ -26,7 +26,6 @@ import ReservedDate from "./components/Dateview/Date"
 
 import {  userInputs } from "./formSource";
 
-
 function App() {  
   return (
     <BrowserRouter>
